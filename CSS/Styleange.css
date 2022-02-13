@@ -1,0 +1,55 @@
+* {
+    font-family: 'Montserrat';
+}
+header.header {
+    display: flex;
+    align-items: center;
+}
+
+
+header.header img {
+    width: 100px;
+}
+
+section.top-page {
+    background: url('../image/joyeuse-saint-valentin-v4-print.jpg');
+    background-size: cover;
+    height: 80vh;
+    padding: 25px;
+}
+
+section.backtoelume {
+    height: 100vh;
+    padding: 25px;
+}
+
+.landing-page {
+    padding: 20px 50px;
+}
+
+.big-title {
+    color: white;
+    font-size: 80px;
+    font-family: 'Abril fatface';
+    font-weight: 100;
+}
+
+/*menu de navigation */
+
+nav.nav{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    font-size: 200%;
+    width: 750px;
+    margin-left: 0px;
+}
+
+nav.nav li {
+    color: rgb(255, 255, 255)
+}
+
+
+section.top-chat {
+color: red;
+}
